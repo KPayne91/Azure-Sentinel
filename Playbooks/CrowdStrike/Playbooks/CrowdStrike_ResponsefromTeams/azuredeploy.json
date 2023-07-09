@@ -493,10 +493,7 @@
                                     "type": "object"
                                   },
                                   "sensor_update": {
-                                    "properties": {
-                                      "applied": {
-                                        "type": "boolean"
-                                      },
+                                    "properties": {},
                                       "applied_date": {},
                                       "assigned_date": {
                                         "type": "string"
